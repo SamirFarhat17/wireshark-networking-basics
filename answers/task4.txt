@@ -1,0 +1,16 @@
+1. List as much information you can about the trace, including:
+Which IP addresses are in the trace?
+74.125.29.189
+192.168.1.17
+216.58.219.238
+128.197.26.34
+
+Which IP is the client?
+192.168.1.17
+
+What domains are being accessed?
+GOOGLE
+(RIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED) Private address belonging to IANA
+GOOGLE
+(BU-NET)BostonUniversity
+

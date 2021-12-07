@@ -1,0 +1,5 @@
+1. What kind of protocol is used when performing a ping command?
+Ping protocol utilizes the Internet Control Message Protocol(ICMP)
+
+What information is transferred in this protocol?
+It sends operational data and error messages to indicate success or failure when attempting to communicate with another IP address. This makes it generally reserved for control and diagnostics of IP operations. In the context of the trace, the client is consistently requesting the destination address which in turn sends replies after the request

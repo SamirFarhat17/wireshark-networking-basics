@@ -1,0 +1,17 @@
+1.Specify the destination IP address
+142.250.80.4
+
+2.Specify the destination MAC address
+172.16.177.2
+
+3.Specify the Internet Protocol version
+IPV4 (Version-4)
+
+4.Specify the Source and Destination Port
+38124 is source and destination is 80
+
+5.Specify the version of wget
+GNU Wget 1.20.3 built on linux-gnu
+
+6.Specify the TCP Flags
+SYN, ACK, PSH and FIN

@@ -1,0 +1,9 @@
+DNS: Domain Name System, as the name implies, is used to identify computers or networking capable devices.
+
+TCP: Transmission Control Protocol is used to ensure transmission of packets reliably and with low overhead.
+
+TLSv1.2: Transport Layer Security is used to provide privacy and data integrity between the communicating parties. T
+
+*ask about individual or collective purpose, and hello thing??
+
+
